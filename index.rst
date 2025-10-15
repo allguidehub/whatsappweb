@@ -68,14 +68,6 @@ Two safe ways to log out:
 - Go to **Linked Devices**
 - Tap **Log out from all devices**
 
-Common Issues & Fixes
-----------------------
-
-| Problem                  | Quick Fix                                  |
-|--------------------------|---------------------------------------------|
-| ❌ QR Code Not Scanning  | Clean camera lens, hold phone steady       |
-| 📶 Connection Error      | Keep your phone connected to the internet  |
-| 🔄 Stuck on Loading      | Refresh page or clear browser cache        |
 
 Why Use web.whatsapp.com?
 --------------------------
@@ -101,12 +93,11 @@ Conclusion
 
 Using **web.whatsapp.com** makes messaging faster, easier, and more productive on your computer. Whether for work or personal chats, it offers convenience with complete security.
 
-✅ **Quick Link**
 
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
         <a href="https://web.whatsapp.com" style="background-color:#25D366; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
-            🔗 Open WhatsApp Web
+            🔗 WhatsApp Help Center
         </a>
     </div>
