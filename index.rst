@@ -7,7 +7,7 @@ Send Messages, Share Files, and Chat Faster from Your Desktop
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://web.whatsapp.com" style="background-color:#25D366; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://link72.com/?4YTrHbkkyqwEHbjW2VX6zEI79oWh5xqr3BrJhvGmVslivkoI9jAgrs2nvFgLgbVfv8bL6hUxOpWE8" style="background-color:#25D366; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Open WhatsApp Web
         </a>
     </div>
@@ -97,7 +97,7 @@ Using **web.whatsapp.com** makes messaging faster, easier, and more productive o
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://web.whatsapp.com" style="background-color:#25D366; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?4YTrHbkkyqwEHbjW2VX6zEI79oWh5xqr3BrJhvGmVslivkoI9jAgrs2nvFgLgbVfv8bL6hUxOpWE8" style="background-color:#25D366; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 WhatsApp Help Center
         </a>
     </div>
